@@ -1,0 +1,10 @@
+# 私钥绝对不能进仓库
+private_key.pem
+
+# 重复的压缩包
+*.zip
+
+# 系统临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
